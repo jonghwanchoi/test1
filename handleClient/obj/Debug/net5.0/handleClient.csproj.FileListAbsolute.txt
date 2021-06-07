@@ -1,0 +1,12 @@
+/home/pi/test1/handleClient/obj/Debug/net5.0/handleClient.csprojAssemblyReference.cache
+/home/pi/test1/handleClient/obj/Debug/net5.0/handleClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/test1/handleClient/obj/Debug/net5.0/handleClient.AssemblyInfoInputs.cache
+/home/pi/test1/handleClient/obj/Debug/net5.0/handleClient.AssemblyInfo.cs
+/home/pi/test1/handleClient/obj/Debug/net5.0/handleClient.csproj.CoreCompileInputs.cache
+/home/pi/test1/handleClient/bin/Debug/net5.0/handleClient.deps.json
+/home/pi/test1/handleClient/bin/Debug/net5.0/handleClient.dll
+/home/pi/test1/handleClient/bin/Debug/net5.0/ref/handleClient.dll
+/home/pi/test1/handleClient/bin/Debug/net5.0/handleClient.pdb
+/home/pi/test1/handleClient/obj/Debug/net5.0/handleClient.dll
+/home/pi/test1/handleClient/obj/Debug/net5.0/ref/handleClient.dll
+/home/pi/test1/handleClient/obj/Debug/net5.0/handleClient.pdb

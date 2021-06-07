@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQqywodwBfZT7lCzgwFdixYqXS6qe16O8VQ0iI2up+tu8kTonZEAiFVYutP1o1oRBR9H0Iy7glQsqSeFY6HLCw==",
+  "success": true,
+  "projectFilePath": "/home/pi/test1/serverTest/serverTest.csproj",
+  "expectedPackageFiles": [
+    "/home/pi/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.device.gpio/1.4.0/system.device.gpio.1.4.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.net.primitives/4.3.0/system.net.primitives.4.3.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.net.sockets/4.3.0/system.net.sockets.4.3.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.runtime.handles/4.3.0/system.runtime.handles.4.3.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
