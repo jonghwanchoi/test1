@@ -127,7 +127,7 @@ namespace serverTest
                     }
                     else{
                         buffer_f = Encoding.Unicode.GetBytes(user_name + " : " + message);
-                    }
+                    }//
                 }
                 else
                 {
