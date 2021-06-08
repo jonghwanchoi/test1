@@ -31,11 +31,11 @@ namespace serverTest
             IPEndPoint localAddress =
                     new IPEndPoint(IPAddress.Parse(bindIp), bindPort);
 
-                server = new TcpListener(localAddress);
-                client = default(TcpClient); // 소켓 설정
-                server.Start();
+            server = new TcpListener(localAddress);
+            client = default(TcpClient); // 소켓 설정
+            server.Start();
+            Console.WriteLine("서버 시작... ");
 
-                Console.WriteLine("서버 시작... ");
             while (true)
             {
                 try
@@ -56,7 +56,8 @@ namespace serverTest
 
                     clientList.Add(client, user_name); // cleint 리스트에 추가
                     SendMessage(user_name + " 에서 접속...", "", false); // 모든 client에게 메세지 전송
-                    handle h_client = new handle(); // 클라이언트 추가
+                    System.Console.WriteLine( "{0}", counter);
+                    handle h_client = new handle(); // 서버쪽 클라이언트 추가
                     h_client.OnReceived += new handle.MessageDisplayHandler(OnReceived);
                     h_client.OnDisconnected += new handle.DisconnectedHandler(h_client_OnDisconnected);
                     h_client.startClient(client, clientList); 
